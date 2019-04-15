@@ -1,6 +1,8 @@
 # Build a REST API powered by Node.js and Fastify
 ![Alt text](REST.png)
 
+<h3>Tutorial found here</h3>
+https://zeroequalsfalse.press/posts/build-rest-api-in-5-minutes/
 
 <h3>Download</h3>
 
