@@ -1,2 +1,2 @@
-# nodejs-restful-api-template
-A Simple Node.js Template for Building RESTful APIs
+# Build a REST API powered by Node.js and Fastify
+![Alt text](REST.png)
