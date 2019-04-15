@@ -17,7 +17,7 @@ npm install
 ```
 
 ```
-npm start
+node index.js
 ```
 
 <h3>Software</h3>
