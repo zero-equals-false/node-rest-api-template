@@ -1,0 +1,29 @@
+{
+  "name": "rest-api-template",
+  "version": "1.0.0",
+  "description": "Simple Template for Building REST APIs using Node.js and Fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majikarp/node-rest-api-template.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "rest",
+    "api",
+    "fastify"
+  ],
+  "author": "Marty Jacobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majikarp/node-rest-api-template/issues"
+  },
+  "homepage": "https://github.com/majikarp/node-rest-api-template#readme",
+  "dependencies": {
+    "fastify": "^2.2.0"
+  }
+}
