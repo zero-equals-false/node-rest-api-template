@@ -25,7 +25,7 @@ npm start
 
 <h3>Benefits</h3>
 
-- Create a Web application with easy integration to third-party software from the web.
+- Create an application with easy integration to third-party software from the web.
 It uses node-package-manager - which is the largest software registry in the world.
 You can search available integrations on their website here:
 [Node Registry](https://www.npmjs.com/)
